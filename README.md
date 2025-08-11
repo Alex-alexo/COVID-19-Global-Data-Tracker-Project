@@ -63,6 +63,7 @@ bash
 Copy
 Edit
 streamlit run dashboard.py
+
 📊 Insights & Reflections
 Countries with early vaccination rollouts saw a slower rise in cases during later waves.
 
