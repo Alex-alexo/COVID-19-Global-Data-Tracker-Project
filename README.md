@@ -36,8 +36,10 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/Alex-alexo/covid19-global-data-tracker.git
-cd covid19-global-data-tracker
+git clone https://github.com/Alex-alexo/COVID-19-Global-Data-Tracker-Project
+.git
+cd COVID-19-Global-Data-Tracker-Project
+
 Install dependencies (with pip)
 
 bash
